@@ -44,7 +44,7 @@ public class Librarian {
         int rStudents (String a){
             int aa=777;
             for (int i = 0; i < Students ; i++) {
-                if (adam1[i]).id.equals(a)) {
+                if (adam1[i].id.equals(a)) {
                 aa = i ; break;
                 }else if (adam1[i].name.equals(a)) { aa=i; break;}
             }

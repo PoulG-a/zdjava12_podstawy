@@ -26,7 +26,7 @@ public class admin {
     int rLibrarian(String a){
         int aa=777;
         for (int i = 0; i <Librarian.Librarian ; i++) {
-            if (adam[i]).Name.equals(a)) {
+            if (adam[i].Name.equals(a)) {
             aa=i; break;
             }if (adam[i].Id.equals(a)){
                 aa=i; break;
